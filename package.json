@@ -1,5 +1,5 @@
 {
-  "name": "clase10",
+  "name": "entrega4-filippetti",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -14,5 +14,8 @@
     "express-handlebars": "^7.1.2",
     "socket.io": "^4.7.1"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
